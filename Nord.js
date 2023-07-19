@@ -16,7 +16,7 @@ BRIGHT_CYAN = "#8FBCBB";
 BRIGHT_WHITE = "#ECEEF4";
 FOREGROUND = "#D8DEE8";
 BACKGROUND = "#2E3340";
-CURSOR = "rgba(216,222,232,1.0)";
+CURSOR = "rgba(216,222,232,0.5)";
 
 t.prefs_.set("color-palette-overrides", [
   BLACK,
